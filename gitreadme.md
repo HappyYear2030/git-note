@@ -20,6 +20,15 @@ $git rm <file>                                       删除存档中文件
 
 # 与Github链接推送的命令
 
+```
+$git remote add origin git@github.com:michaelliao/learngit.git
+与远程仓库origin建立链接
+$git push -u origin master
+把本地仓库提交到远程空仓库
+$git push -u origin master
+强制把本地仓库提交到远程空仓库
+```
+
 
 
 # 分支命令
