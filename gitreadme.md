@@ -28,7 +28,7 @@ $git remote -v
 查看远程库的信息
 $git push -u origin master
 把本地master分支提交到远程空仓库
-$git push -u origin master
+$git push -u origin master -f
 强制把本地仓库提交到远程空仓库
 $git clone git@github.com:HAPPYyear2030/qwqw.git
 克隆下来一个本地库
